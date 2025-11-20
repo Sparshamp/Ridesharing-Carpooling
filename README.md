@@ -43,6 +43,9 @@ ride-sharing-carpooling-system/
 ├── schema.sql
 ├── procedures_triggers.sql
 ├── requirements.txt
+├── ER_diagram.jpg
+├── Relational_schema.jpg
+├── schema.sql
 ├── README.md
 ├── ride-sharing-streamlit/
 │   ├── streamlit_app.py
@@ -135,18 +138,6 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📸 Screenshots
-
-(Screenshots to be added)
-
-* Login Page
-* Passenger Booking
-* Admin Trip Creation
-* Driver Trip View
-* Reports Page
-
----
-
 ## 📑 SQL Features Demonstration
 
 ```sql
@@ -159,27 +150,12 @@ SELECT * FROM TopTrips;
 
 ---
 
-## 🧩 ER Diagram & Relational Schema
-
-Included in repository as:
-
-* ER_Diagram.png
-* Relational_Schema.png
-
----
-
 ## 📌 Future Enhancements
 
 * Online payment gateway integration
 * Ride tracking and live location updates
 * Rating system for drivers
 * Mobile app version
-
----
-
-## 🔗 GitHub Repository
-
-(Insert link here)
 
 ---
 
